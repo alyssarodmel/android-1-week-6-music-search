@@ -6,3 +6,4 @@ package com.ucsdextandroid1.musicsearch.search;
 public interface OnItemClickListener<T> {
     void onItemClicked(T item);
 }
+//
